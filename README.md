@@ -39,7 +39,8 @@ Langkah 6: Date and Time Pickers
 
 # Soal 4
 Selesaikan Codelabs: Your first Flutter app, lalu buatlah laporan praktikumnya dan push ke repository GitHub Anda!
-
+Repository: https://github.com/Tirta2241720045/-
+Laporan: https://github.com/Tirta2241720045/-/blob/master/README.md 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
